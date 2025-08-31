@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class HU037CAñadirLinks {
+public class HU037C3AñadirLinks {
 
     private static class Evento {
         private final String titulo;
